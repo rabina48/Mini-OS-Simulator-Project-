@@ -23,7 +23,12 @@ A GUI-based approach is used to make the concepts easier to visualize and unders
 
 ---
 
-## OS Concepts Implemented (Syllabus-Based) Can choose the Topic of the project as an example:
+## 🧠 OS Concepts (Syllabus-Based)
+
+The topic of the Mini OS Simulator project can be chosen from any of the core Operating System concepts covered in the syllabus. Students are free to **choose any one topic as the main project focus** or combine multiple OS concepts to build a more comprehensive Mini OS Simulator.
+
+
+Example topics include:
 
 ### 1. Process Management & CPU Scheduling
 Algorithms Like:
@@ -78,12 +83,12 @@ Concepts covered:
 
 ---
 
-##  Technologies I have Used
+##  Technologies I  Used
 - **Programming Language:** Python  
 - **GUI Framework:** Tkinter / PyQt  
 - **IDE:** VS Code  
 
----
+
 
 
 
