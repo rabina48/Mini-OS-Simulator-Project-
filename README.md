@@ -26,13 +26,13 @@ A GUI-based approach is used to make the concepts easier to visualize and unders
 ## OS Concepts Implemented (Syllabus-Based) Can choose the Topic of the project as an example:
 
 ### 1. Process Management & CPU Scheduling
-Algorithms implemented:
+Algorithms Like:
 - **First Come First Serve (FCFS)**
 - **Shortest Job First (SJF)**
 - **Priority Scheduling**
 - **Round Robin Scheduling**
 
-Concepts covered:
+Concepts can be:
 - Arrival Time, Burst Time
 - Waiting Time and Turnaround Time
 - Gantt Chart visualization
@@ -40,12 +40,12 @@ Concepts covered:
 ---
 
 ### 2.Memory Management
-Algorithms implemented:
+Algorithms Like:
 - **First Fit**
 - **Best Fit**
 - **Worst Fit**
 
-Concepts covered:
+Concepts can be:
 - Fixed memory blocks
 - Memory allocation and deallocation
 - Internal and external fragmentation
@@ -53,12 +53,12 @@ Concepts covered:
 ---
 
 ### 3. File Management
-Features implemented:
+Features :
 - File creation
 - File deletion
 - File attributes (file name, size, type)
 
-Concepts covered:
+Concepts can be:
 - Basic file operations
 - Logical file organization
 - Simple directory structure
