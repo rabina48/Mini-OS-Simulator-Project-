@@ -10,7 +10,9 @@ The simulator focuses on important OS topics covered in the syllabus, such as:
 - Process Management & CPU Scheduling  
 - Memory Management  
 - File Management  
-- I/O Device Simulation & Disk Scheduling   [Further Exploration: Learners are encouraged to be proactive and explore additional OS algorithms concepts independently.
+- I/O Device Simulation & Disk Scheduling
+  
+  ```[Further Exploration: Learners are encouraged to be proactive and explore additional OS algorithms concepts independently.```
 
 A GUI-based approach is used to make the concepts easier to visualize and understand.
 
