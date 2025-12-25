@@ -84,14 +84,12 @@ Concepts covered:
 ---
 
 ## 🎬 Project Demo
-A demo video is included in this repository showing:
+A demo Video Sample: https://www.youtube.com/watch?si=y1YXhT6nuwIIKzu9&v=i_erC_ef08E&feature=youtu.be
 - Process Scheduling Algorithms
 - Memory allocation techniques
 - File management operations
 
 
- Video Sample:
 
----
 
-## 📂 Project Structure
+
