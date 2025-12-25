@@ -2,29 +2,28 @@
 
 ## 📌 Project Overview
 The **Mini OS Simulator** is a simplified simulation of core **Operating System concepts**.  
-This project is **not a real operating system**, but a learning tool designed to help students understand how an OS works internally using hands-on implementation.
+This project is **(not a real operating system)**, for understanding how a different algorithm works internally using hands-on implementation.
 
-The simulator focuses on important OS topics covered in the syllabus such as:
+The simulator focuses on important OS topics covered in the syllabus, such as:
 - Process Management & CPU Scheduling  
 - Memory Management  
 - File Management  
-- I/O Device Simulation & Disk Scheduling  
+- I/O Device Simulation & Disk Scheduling   [Further Exploration: Learners are encouraged to be proactive and explore additional OS algorithms concepts independently.
 
 A GUI-based approach is used to make the concepts easier to visualize and understand.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - To understand core operating system concepts through simulation
 - To implement OS algorithms studied in the syllabus
-- To visualize scheduling, allocation, and management techniques
-- To gain practical experience with OS concepts
+- To gain practical experience with the algorithms and concepts
 
 ---
 
-## 🧠 OS Concepts Implemented (Syllabus-Based)
+## OS Concepts Implemented (Syllabus-Based) Can choose the Topic of the project as an example:
 
-### 1️⃣ Process Management & CPU Scheduling
+### 1. Process Management & CPU Scheduling
 Algorithms implemented:
 - **First Come First Serve (FCFS)**
 - **Shortest Job First (SJF)**
@@ -32,14 +31,13 @@ Algorithms implemented:
 - **Round Robin Scheduling**
 
 Concepts covered:
-- Process states (New, Ready, Running, Waiting, Terminated)
 - Arrival Time, Burst Time
 - Waiting Time and Turnaround Time
 - Gantt Chart visualization
 
 ---
 
-### 2️⃣ Memory Management
+### 2.Memory Management
 Algorithms implemented:
 - **First Fit**
 - **Best Fit**
@@ -52,7 +50,7 @@ Concepts covered:
 
 ---
 
-### 3️⃣ File Management
+### 3. File Management
 Features implemented:
 - File creation
 - File deletion
@@ -65,7 +63,7 @@ Concepts covered:
 
 ---
 
-### 4️⃣ I/O Device Simulation & Disk Management
+### 4. I/O Device Simulation & Disk Management
 Algorithms implemented:
 - **FCFS Disk Scheduling**
 - **SSTF (Shortest Seek Time First)**
@@ -78,22 +76,21 @@ Concepts covered:
 
 ---
 
-## 🖥️ Technologies Used
+##  Technologies I have Used
 - **Programming Language:** Python  
 - **GUI Framework:** Tkinter / PyQt  
 - **IDE:** VS Code  
-- **Version Control:** Git & GitHub  
 
 ---
 
 ## 🎬 Project Demo
 A demo video is included in this repository showing:
-- CPU scheduling execution
+- Process Scheduling Algorithms
 - Memory allocation techniques
 - File management operations
-- Disk scheduling visualization
 
-📹 The video demonstrates the working of all major OS modules in the simulator.
+
+ Video Sample:
 
 ---
 
