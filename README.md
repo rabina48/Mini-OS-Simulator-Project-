@@ -1,4 +1,6 @@
 # Mini OS Simulator
+## 🎬 Project Demo: A demo Video Sample: https://www.youtube.com/watch?si=y1YXhT6nuwIIKzu9&v=i_erC_ef08E&feature=youtu.be
+
 
 ## 📌 Project Overview
 The **Mini OS Simulator** is a simplified simulation of core **Operating System concepts**.  
@@ -83,11 +85,7 @@ Concepts covered:
 
 ---
 
-## 🎬 Project Demo
-A demo Video Sample: https://www.youtube.com/watch?si=y1YXhT6nuwIIKzu9&v=i_erC_ef08E&feature=youtu.be
-- Process Scheduling Algorithms
-- Memory allocation techniques
-- File management operations
+
 
 
 
