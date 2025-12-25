@@ -1,5 +1,5 @@
 # Mini OS Simulator
-## 🎬 Project Demo: A demo Video Sample: https://www.youtube.com/watch?si=y1YXhT6nuwIIKzu9&v=i_erC_ef08E&feature=youtu.be
+## 🎬 Project Demo: A demo Video Sample: use speed 1.5x for better https://www.youtube.com/watch?si=y1YXhT6nuwIIKzu9&v=i_erC_ef08E&feature=youtu.be
 
 
 ## 📌 Project Overview
